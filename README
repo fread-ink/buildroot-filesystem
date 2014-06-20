@@ -1,4 +1,6 @@
-Buildroot to build the filesystem for an alternate kindle operating system for the kindle 4 non-touch.
+Buildroot to build the filesystem for fread.ink
+
+THIS IS A WORK IN PROGRESS. DO NOT EXPECT IT TO WORK.
 
 Based on Buildroot-2014.02.
 
