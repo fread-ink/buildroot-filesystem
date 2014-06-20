@@ -1,0 +1,5 @@
+Buildroot to build the filesystem for an alternate kindle operating system for the kindle 4 non-touch.
+
+Based on Buildroot-2014.02.
+
+Does not include kernel or initial ram disk.
